@@ -10,7 +10,7 @@ export default function About() {
 <div class="container">
     <div class="row">
         <div class="span7">
-        <h1>Jasper Belenzo</h1>
+        <h1>About Me</h1>
         <p>Hola niños y niñas! My name is Jasper Lunaria Belenzo, I'm from the Philippines. 
             I'm a software engineer,  a self proclaimed, loving Husband, a father of two, a former Researcher, 
             a former Lecturer, a frustrated, multi-instrument Musician and this is my personal website.</p>

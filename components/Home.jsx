@@ -4,57 +4,42 @@ export default function Home() {
     <div class="row">
         <div class="span7">
         <h1>Jasper Belenzo</h1>
-        <p>
-            Hi! I'm a French Java expert &amp; author, and this is my personal website.
-        </p>
-
-        <p>
-            I currently work at <a href="https://www.microsoft.com" target="_blank">Microsoft</a>, where I manage the Java Developer Relations team.
-        </p>
-
-        <p>
-            Open Source has always been very important for me, and I started several projects in the past 25 years. I'm mostly
-            known for creating and leading <a href="/jhipster.html">JHipster</a>, a popular Open Source development platform.
-        </p>
-        <p>
-            I am also known in the Java community for being:
-            <ul>
-                <li>a member of the <a href="https://community.oracle.com/community/groundbreakers/java/java-champions"
-                        target="_blank">Java Champions</a></li>
-                <li>one of the authors of <a href="/book.html">"Spring par la pratique"</a>, a best-selling book on the
-                    Spring Framework</li>
-                <li><a href="/articles.html">a conference speaker, and an author of several presentations and
-                        articles</a></li>
-            </ul>
+        <p>Hola niños y niñas! My name is Jasper Lunaria Belenzo, I'm from the Philippines. 
+            I'm a software engineer,  a self proclaimed, loving Husband, a father of two, a former Researcher, 
+            a former Lecturer, a frustrated, multi-instrument Musician and this is my personal website.</p>
+        <p>In the future, I aim to start my own company and name it BELENZO Softwares. 
+            As of now I'm studying in Canada. Prior to coming to Canada, I have developed enterprise web applications and 
+            information systems using Java EE and Spring for organizations such as Prudential Financial, Hewlett Packard Enterprise, 
+            Procter & Gamble, JPMorgan Chase & Co., and the Asian Development Bank in a span of a decade or more.</p>
+        <p>I have also contributed to the development of Enterprise Resource Planning (ERP) Software Products for INFOR and ORACLE Corporations. 
+            I have some Web GIS Research and Development experience and a bit of academic teaching experience as a University Lecturer. 
+            In my free time I enjoying studying and playing musical instruments such as Guitars, Basses, Keyboards and Electronic Drums. 
+            I have interests in some Sports such as Basketball and Soccer (Football) as these are the Sports that I was able to play when I was younger.
         </p>
     </div>
         <div class="span5">
-            <img src="washington_jasper.jpg" />
+            <img src="CustomLogo.png" />
         </div>
     </div>
 <hr />
 <div class="row">
-    <div class="span4">
-        <p>
-            I spend some time on Facebook, you can follow me at <a href="https://www.facebook.com/leafdance"
-                target="_blank">@leafdance</a>.
-        </p>
-        <img src="twitter.jpg" />
-    </div>
-    <div class="span4">
-        <p>
-            I now have a <a href="https://github.com/leafdance" target="_blank">Github account</a>. Believe it or not.
-        </p>
+    <div class="span3">
+        <p>Surprisingly, I now have a <a href="https://github.com/leafdance" target="_blank">Github account</a>.</p>
         <img src="github-octocat.png" />
     </div>
-    <div class="span4">
-        <p>
-            You can find <a href="https://www.linkedin.com/in/belenzo/" target="_blank">my resume on
-                LinkedIn.</a> Hire me please.
-        </p>
+    <div class="span3">
+        <p>Hire me! Check <a href="https://www.linkedin.com/in/belenzo/" target="_blank">my resume on LinkedIn</a>.</p>
         <img src="linkedin.png" />
     </div>
+    <div class="span3">
+        <p>Waste precious minutes of your life, watch: <a href="https://www.youtube.com/@kagemane10" target="_blank">https://www.youtube.com/@kagemane10</a>.</p>
+        <img src="youtube.jpg" />
     </div>
+    <div class="span3">
+        <p>I'm on Facebook. Twitter and WhatsApp suck! <a href="https://www.facebook.com/leafdance" target="_blank">https://www.facebook.com/leafdance</a>.</p>
+        <img src="twitter.jpg" />
+    </div>
+</div>
     <hr />
     <footer>
         <p>&copy; Jasper Belenzo - <a rel="me" href="https://www.facebook.com/leafdance"> https://www.facebook.com/leafdance</a></p>    

@@ -17,7 +17,7 @@ export default function Layout() {
                         <Link class="brand" to="/">Jasper Belenzo</Link>
                     </li>
                     <li>
-                        <Link to="/">Home</Link>
+                        <Link to="/about">Home</Link>
                     </li>
                     <li>
                         <Link to="/services">Services</Link>

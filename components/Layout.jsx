@@ -1,3 +1,9 @@
+/*
+* 
+* Jasper Belenzo
+* 301329283
+*
+*/
 import React from 'react'
 import { Link } from 'react-router-dom'
 
@@ -14,10 +20,16 @@ export default function Layout() {
             <div class="nav-collapse collapse">
                 <ul class="nav">
                     <li>
+                        <img src="vite.png" />
+                    </li>
+                    <li>
+                       &nbsp;&nbsp;&nbsp;&nbsp;
+                    </li>
+                    <li>
                         <Link class="brand" to="/">Jasper Belenzo</Link>
                     </li>
                     <li>
-                        <Link to="/about">Home</Link>
+                        <Link to="/about">About</Link>
                     </li>
                     <li>
                         <Link to="/services">Services</Link>

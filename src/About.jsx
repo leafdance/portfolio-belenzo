@@ -5,13 +5,14 @@
 *
 */
 import { Link } from 'react-router-dom'
+
 export default function About() {
     return (<>
 <div class="container">
     <div class="row">
         <div class="span7">
         <h1>About Me</h1>
-        <p>Hola niños y niñas! My name is Jasper Lunaria Belenzo, I'm from the Philippines. 
+        <p>Hola niños y niñas! My name is <b>Jasper Lunaria Belenzo</b>, I'm from the Philippines. 
             I'm a software engineer,  a self proclaimed, loving Husband, a father of two, a former Researcher, 
             a former Lecturer, a frustrated, multi-instrument Musician and this is my personal website.</p>
         <p>In the future, I aim to start my own company and name it BELENZO Softwares. 
